@@ -56,4 +56,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0696-count-binary-substrings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
