@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0696-count-binary-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1260-shift-2d-grid) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
