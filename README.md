@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0696-count-binary-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack
 |  |
 | ------- |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3499-maximize-active-section-with-trade-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
