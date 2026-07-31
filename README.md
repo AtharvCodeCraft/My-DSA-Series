@@ -156,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3742-maximum-path-score-in-a-grid](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3742-maximum-path-score-in-a-grid) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
