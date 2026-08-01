@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1260-shift-2d-grid) |
+| [1436-destination-city](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1436-destination-city](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1436-destination-city) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1796-second-largest-digit-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3312-sorted-gcd-pair-queries) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0696-count-binary-substrings](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0696-count-binary-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1436-destination-city](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1436-destination-city) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1796-second-largest-digit-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
