@@ -186,4 +186,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0877-stone-game) |
+## Tree
+|  |
+| ------- |
+| [2331-evaluate-boolean-binary-tree](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2331-evaluate-boolean-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2331-evaluate-boolean-binary-tree](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2331-evaluate-boolean-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2331-evaluate-boolean-binary-tree](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2331-evaluate-boolean-binary-tree) |
 <!---LeetCode Topics End-->
