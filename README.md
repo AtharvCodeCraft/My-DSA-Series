@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0234-palindrome-linked-list) |
 | [0696-count-binary-substrings](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0876-middle-of-the-linked-list) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0125-valid-palindrome) |
 | [0696-count-binary-substrings](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0696-count-binary-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1436-destination-city](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1436-destination-city) |
