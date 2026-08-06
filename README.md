@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0118-pascals-triangle) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0877-stone-game) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0234-palindrome-linked-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0696-count-binary-substrings](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0056-merge-intervals) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1436-destination-city](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1436-destination-city) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1796-second-largest-digit-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0074-search-a-2d-matrix) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
