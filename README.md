@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0628-maximum-product-of-three-numbers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1122-relative-sort-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1122-relative-sort-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1122-relative-sort-array) |
 | [1436-destination-city](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1436-destination-city) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0347-top-k-frequent-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Counting Sort
@@ -269,10 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0347-top-k-frequent-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0347-top-k-frequent-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Minimax
 |  |
@@ -298,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
