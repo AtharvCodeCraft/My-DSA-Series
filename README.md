@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1140-stone-game-ii) |
