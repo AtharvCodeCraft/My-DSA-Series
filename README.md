@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2029-stone-game-ix) |
+| [2965-find-missing-and-repeated-values](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1436-destination-city) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1796-second-largest-digit-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Linked List
 |  |
