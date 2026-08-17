@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1260-shift-2d-grid) |
 | [1436-destination-city](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Database
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
