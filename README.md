@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1872-stone-game-viii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2029-stone-game-ix) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Database
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2029-stone-game-ix) |
 ## Tree
@@ -333,11 +338,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
