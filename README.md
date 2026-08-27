@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0118-pascals-triangle) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0486-predict-the-winner) |
