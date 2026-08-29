@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2029-stone-game-ix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -398,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
