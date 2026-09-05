@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0050-powx-n) |
+| [0319-bulb-switcher](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0877-stone-game) |
@@ -435,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0518-coin-change-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
