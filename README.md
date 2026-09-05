@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0200-number-of-islands) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2331-evaluate-boolean-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0200-number-of-islands) |
 | [3310-remove-methods-from-project](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0200-number-of-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Knapsack Problem
 |  |
