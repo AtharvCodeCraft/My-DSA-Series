@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0283-move-zeroes) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0055-jump-game) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0486-predict-the-winner](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0877-stone-game) |
