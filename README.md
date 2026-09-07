@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0696-count-binary-substrings) |
+| [0940-distinct-subsequences-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1436-destination-city](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1872-stone-game-viii) |
