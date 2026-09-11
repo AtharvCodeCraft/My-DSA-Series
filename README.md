@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0696-count-binary-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0940-distinct-subsequences-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1436-destination-city](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
