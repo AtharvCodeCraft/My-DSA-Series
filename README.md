@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
@@ -455,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0319-bulb-switcher) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
