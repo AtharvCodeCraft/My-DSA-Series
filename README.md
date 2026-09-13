@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0877-stone-game) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2022-convert-1d-array-into-2d-array) |
