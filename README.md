@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1872-stone-game-viii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1872-stone-game-viii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1122-relative-sort-array) |
 | [1386-cinema-seat-allocation](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1436-destination-city) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1796-second-largest-digit-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0875-koko-eating-bananas](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1140-stone-game-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1872-stone-game-viii) |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/3090-maximum-length-substring-with-two-occurrences) |
