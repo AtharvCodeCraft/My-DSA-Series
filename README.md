@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0151-reverse-words-in-a-string) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0901-online-stock-span) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AtharvCodeCraft/My-DSA-Series/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
